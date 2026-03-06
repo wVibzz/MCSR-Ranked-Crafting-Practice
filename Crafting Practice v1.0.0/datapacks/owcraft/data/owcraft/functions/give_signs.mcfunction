@@ -1,0 +1,19 @@
+# Give all signs to player
+# Run once: /function owcraft:give_signs
+
+# ========== SEED TYPE SIGNS ==========
+give @s minecraft:oak_sign{display:{Name:'{"text":"Random","color":"green","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Random]","color":"green","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:start"}}',Text2:'{"text":"Random Structure","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"BT","color":"aqua","italic":false}'},BlockEntityTag:{Text1:'{"text":"[BT]","color":"aqua","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/bt"}}',Text2:'{"text":"Buried Treasure","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Ship","color":"blue","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Ship]","color":"blue","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/ship"}}',Text2:'{"text":"Shipwreck","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Village","color":"green","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Village]","color":"green","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/village"}}',Text2:'{"text":"Village","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Temple","color":"gold","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Temple]","color":"gold","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/temple"}}',Text2:'{"text":"Desert Temple","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"RP","color":"light_purple","italic":false}'},BlockEntityTag:{Text1:'{"text":"[RP]","color":"light_purple","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/rp"}}',Text2:'{"text":"Ruined Portal","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+
+# ========== UTILITY SIGNS ==========
+give @s minecraft:oak_sign{display:{Name:'{"text":"Give Signs","color":"dark_green","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Give Signs]","color":"dark_green","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:give_signs"}}',Text2:'{"text":"Get All Signs","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Settings","color":"gold","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Settings]","color":"gold","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:settings/main"}}',Text2:'{"text":"Options","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Reset","color":"red","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Reset]","color":"red","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:reset"}}',Text2:'{"text":"New Round","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+give @s minecraft:oak_sign{display:{Name:'{"text":"Back","color":"white","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Back]","color":"white","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:hub/main"}}',Text2:'{"text":"Main Hub","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1
+
+# ========== SETTINGS SIGNS ==========
+give @s minecraft:oak_sign{display:{Name:'{"text":"Sidebar","color":"yellow","italic":false}'},BlockEntityTag:{Text1:'{"text":"[Sidebar]","color":"yellow","bold":true,"clickEvent":{"action":"run_command","value":"/function owcraft:settings/toggle_sidebar"}}',Text2:'{"text":"Toggle On/Off","color":"gray"}',Text3:'{"text":""}',Text4:'{"text":""}'}} 1

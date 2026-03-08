@@ -2,6 +2,14 @@
 ### MADE FOR MINECRAFT VERSION 1.16.1
 Ranked Filtered Seeds Crafting Practice Map
 
+## Features
+- All 5 Ranked Structure Types
+Buried Treasure, Shipwreck, Village, Desert Temple, and Ruined Portal, each with maybe? accurate loot tables
+- Sidebar Checklist, Real-time color-coded checklist showing which items still need to be crafted with a setting toggle
+- Scoring System, Point-based scoring with bonuses for optimal tool choices and penalties for leftover resources/wrong crafts
+- Timer for how fast you complete the cheklist in a round
+- Tracking for every ore used and failures for wrong crafts/incorrect plays
+
 ## Installation Instructions
 1. Open the **Releases** tab on the right side of the page
 2. Download the latest `.zip` file of the map  

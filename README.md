@@ -15,7 +15,7 @@ Buried Treasure, Shipwreck, Village, Desert Temple, and Ruined Portal, each with
 2. Download the latest `.zip` file of the map  
    Example: `Crafting Practice vX.X.X.zip`
 3. Unzip the file to a folder called `Crafting Practice vX.X.X`
-<img width="849" height="291" alt="image" src="https://github.com/user-attachments/assets/dcafd7e5-268d-42d7-9193-a6cdee3ee721" />
+<img width="746" height="445" alt="image" src="https://github.com/user-attachments/assets/a5415203-c677-46dc-a713-14bb35a14f58" />
 
 4. Open the unzipped folder and verify the structure  
    There must be **no folder inside another folder**.

@@ -1,7 +1,6 @@
 # MCSR Ranked Crafting Practice
+### MADE FOR MINECRAFT VERSION 1.16.1
 Ranked Filtered Seeds Crafting Practice Map
-
-## MADE FOR MINECRAFT VERSION 1.16.1
 
 ## Installation Instructions
 1. Open the **Releases** tab on the right side of the page

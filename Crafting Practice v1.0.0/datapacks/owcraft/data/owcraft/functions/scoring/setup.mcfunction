@@ -53,6 +53,8 @@ scoreboard objectives add ow.has_odoor dummy
 scoreboard objectives add ow.has_idoor dummy
 scoreboard objectives add ow.start_iron dummy
 scoreboard objectives add ow.iron_used dummy
+scoreboard objectives add ow.start_wood dummy
+scoreboard objectives add ow.wood_used dummy
 # Settings
 scoreboard objectives add ow.show_side dummy
 # Sidebar checklist

@@ -38,7 +38,6 @@ scoreboard players set @a ow.has_anypick 0
 scoreboard players set @a ow.has_anyaxe 0
 scoreboard players set @a ow.has_anyshov 0
 scoreboard players set @a ow.has_light 0
-scoreboard players set @a ow.no_iron 0
 scoreboard players set @a ow.init_ipick 0
 scoreboard players set @a ow.has_ihelm 0
 scoreboard players set @a ow.has_ichest 0
@@ -49,6 +48,8 @@ scoreboard players set @a ow.has_odoor 0
 scoreboard players set @a ow.has_idoor 0
 scoreboard players set @a ow.start_iron 0
 scoreboard players set @a ow.iron_used 0
+scoreboard players set @a ow.start_wood 0
+scoreboard players set @a ow.wood_used 0
 # Sidebar checklist — recreate with seed name as title
 scoreboard objectives remove ow.sidebar
 execute if score @s ow.seedtype matches 1 run scoreboard objectives add ow.sidebar dummy {"text":"Buried Treasure","color":"aqua","bold":true}
